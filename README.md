@@ -1,2 +1,2 @@
 # HangmanByPeter
-This is a simple console game "Hangman"
+This is a simple console game "Hangman" 
